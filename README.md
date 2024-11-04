@@ -6,3 +6,5 @@ Manuel Pebe Pueyrredón(Hardware):
 
 Link a la carpeta de proyecto:
 https://drive.google.com/drive/folders/1qNRUSl9h7npp-c4I99EpkG0ForvR6cRW?hl=es
+
+Link al repo de Front End: https://github.com/joacogarcia1/Front-End-proyecto
